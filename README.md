@@ -22,4 +22,4 @@ This is a simple implementation of the classic Snake, Water, Gun game using Java
 
 ## Screenshots
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot]![Screenshot (506)](https://github.com/Ankitarai27/Game/assets/129681815/007f1dc8-9d31-4e00-abe7-d5b31c8541be)
