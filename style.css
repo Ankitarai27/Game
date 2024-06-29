@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body,html{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(1,5,64);
+    color: white; 
+    box-sizing: border-box;
+}
+.content{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    gap: 1.4rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+.title{
+    font-size: 2.5rem;
+}
+.charr{
+    font-size: 2.5rem;
+}
+.rule{
+    padding: 2rem;
+}
+.winner{
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: white;
+    border: 2px solid #0df;
+    box-shadow: 0 0 25px;
+    border-radius: 2rem;
+    padding: 1rem;
+    width: 13rem;
+    height: 5rem;
+}
